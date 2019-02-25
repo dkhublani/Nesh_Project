@@ -1,3 +1,14 @@
+### Run the command- 
+
+python -m pip install -r requirements.txt 
+
+OR
+
+pip install -r requirements.txt
+
+pip3/python3 according to the version of the python to install dependencies associated with the post
+
+
 # Nesh_Project
 Scrape information from a publicly available website to present insights about an Oil and Gas company
 
