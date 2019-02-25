@@ -1,0 +1,25 @@
+{
+    "company_name": "EOG Resources, Inc. Common Stock (EOG) Quote & Summary Data",
+    "ticker": "EOG",
+    "url": "http://www.nasdaq.com/symbol/EOG",
+    "current_value": [
+        "$95.53"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "131.5",
+        "Today's High / Low": "$ 97.12 / $ 95.12",
+        "Share Volume": "4,159,459",
+        "90 Day Avg. Daily Volume": "3,691,330",
+        "Previous Close": "$ 95.35",
+        "52 Week High / Low": "$ 133.5278 / $ 82.04",
+        "Market Cap": "55,399,645,257",
+        "P/E Ratio": "11.17",
+        "Forward P/E (1y)": "16.79",
+        "Earnings Per Share (EPS)": "$ 8.55",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0.92 %",
+        "Beta": "0.77"
+    }
+}

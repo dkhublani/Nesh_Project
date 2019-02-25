@@ -1,0 +1,25 @@
+{
+    "company_name": "Anadarko Petroleum Corporation Common Stock (APC) Quote & Summary Data",
+    "ticker": "APC",
+    "url": "http://www.nasdaq.com/symbol/APC",
+    "current_value": [
+        "$43.69"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "75",
+        "Today's High / Low": "$ 44.45 / $ 43.295",
+        "Share Volume": "4,983,334",
+        "90 Day Avg. Daily Volume": "5,645,340",
+        "Previous Close": "$ 43.84",
+        "52 Week High / Low": "$ 76.6999 / $ 40.40",
+        "Market Cap": "22,032,032,608",
+        "P/E Ratio": "36.41",
+        "Forward P/E (1y)": "29.42",
+        "Earnings Per Share (EPS)": "$ 1.20",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "2.74 %",
+        "Beta": "0.98"
+    }
+}

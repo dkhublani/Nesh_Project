@@ -1,0 +1,25 @@
+{
+    "company_name": "ConocoPhillips Common Stock (COP) Quote & Summary Data",
+    "ticker": "COP",
+    "url": "http://www.nasdaq.com/symbol/COP",
+    "current_value": [
+        "$69.97"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "77.5",
+        "Today's High / Low": "$ 71.01 / $ 69.87",
+        "Share Volume": "5,224,447",
+        "90 Day Avg. Daily Volume": "6,760,369",
+        "Previous Close": "$ 70.24",
+        "52 Week High / Low": "$ 80.24 / $ 52.78",
+        "Market Cap": "79,650,279,530",
+        "P/E Ratio": "13.1",
+        "Forward P/E (1y)": "20.48",
+        "Earnings Per Share (EPS)": "$ 5.34",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "1.74 %",
+        "Beta": "0.97"
+    }
+}

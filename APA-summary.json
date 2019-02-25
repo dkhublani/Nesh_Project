@@ -1,0 +1,25 @@
+{
+    "company_name": "Apache Corporation Common Stock (APA) Quote & Summary Data",
+    "ticker": "APA",
+    "url": "http://www.nasdaq.com/symbol/APA",
+    "current_value": [
+        "$33.47"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "35",
+        "Today's High / Low": "$ 33.60 / $ 32.83",
+        "Share Volume": "7,524,863",
+        "90 Day Avg. Daily Volume": "4,823,728",
+        "Previous Close": "$ 33.37",
+        "52 Week High / Low": "$ 50.0328 / $ 24.56",
+        "Market Cap": "12,703,325,698",
+        "P/E Ratio": "14.62",
+        "Forward P/E (1y)": "19.29",
+        "Earnings Per Share (EPS)": "$ 2.29",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "3 %",
+        "Beta": "0.89"
+    }
+}

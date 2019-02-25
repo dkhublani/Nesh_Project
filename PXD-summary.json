@@ -1,0 +1,25 @@
+{
+    "company_name": "Pioneer Natural Resources Company Common Stock (PXD) Quote & Summary Data",
+    "ticker": "PXD",
+    "url": "http://www.nasdaq.com/symbol/PXD",
+    "current_value": [
+        "$142.13"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "198",
+        "Today's High / Low": "$ 142.17 / $ 138.335",
+        "Share Volume": "2,649,962",
+        "90 Day Avg. Daily Volume": "1,839,487",
+        "Previous Close": "$ 136.15",
+        "52 Week High / Low": "$ 213.395 / $ 119.08",
+        "Market Cap": "24,227,776,710",
+        "P/E Ratio": "24.94",
+        "Forward P/E (1y)": "18.52",
+        "Earnings Per Share (EPS)": "$ 5.70",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0.23 %",
+        "Beta": "0.95"
+    }
+}

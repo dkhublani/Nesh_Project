@@ -1,0 +1,25 @@
+{
+    "company_name": "Occidental Petroleum Corporation Common Stock (OXY) Quote & Summary Data",
+    "ticker": "OXY",
+    "url": "http://www.nasdaq.com/symbol/OXY",
+    "current_value": [
+        "$65.93"
+    ],
+    "key_stock_data": {
+        "1 Year Target": "74.5",
+        "Today's High / Low": "$ 67.21 / $ 65.735",
+        "Share Volume": "5,029,195",
+        "90 Day Avg. Daily Volume": "5,443,667",
+        "Previous Close": "$ 66.60",
+        "52 Week High / Low": "$ 87.67 / $ 56.83",
+        "Market Cap": "49,778,860,092",
+        "P/E Ratio": "12.23",
+        "Forward P/E (1y)": "20.94",
+        "Earnings Per Share (EPS)": "$ 5.39",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "4.68 %",
+        "Beta": "0.77"
+    }
+}
