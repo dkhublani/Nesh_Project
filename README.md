@@ -64,4 +64,10 @@ This script uses the news article related to the company and calculates the aver
 
 
 ## Further Improvements 
-
+* Integrating stock price trend graph and sentiment analysis with the web interface
+* Removing unnecesary advertisements which get scrapped along with the news articles
+* Adding a good theme to the web interface and make it more presentable 
+* Scraping earnings call transcript of the companies and analyzing those transcript to get key information
+* Hosting the web interface on cloud service (for e.g. AWS)
+* We can schedule a cron job that will scrape live data every hour from the sources and then push these changes to cloud based storage and update the web interface with latest data
+* Finally, a micro service can be deployed on kubernetes or docker container to convert this project into a self sustained product.
