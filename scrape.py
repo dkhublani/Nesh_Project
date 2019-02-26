@@ -8,7 +8,7 @@ Created on Fri Feb 22 22:26:56 2019
 from lxml import html
 import requests
 from time import sleep
-import json
+import simplejson as json
 import argparse
 from random import randint
 
