@@ -21,5 +21,9 @@ API from Yahoo is used to extract the stock trends. We focused only on few compa
 
  Some basic insights are as follows:-
  
- * Last known stock price ad stock price trend
- * 
+ * Last known stock price
+ * Financial numbers like 1 year target, today's high/low, 52 week high/low and other relevant ket stock data from www.nasdaq.com
+ * News articles published about the company. Sentiment analysis of the articles 
+ * Stock price trend 
+ 
+ 
