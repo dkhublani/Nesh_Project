@@ -34,7 +34,7 @@ API from Yahoo is used to extract the stock trends. We focused only on few compa
 * Enter the ticker (OXY, EOG, APC, APA, COP and PXD) and hit submit button
  
 * To plot the stock prices trend:
-Open and run plot_stock.py python script in and IED
+Open and run plot_stock.py python script in any IED
 User inputs for the start date, end date and Ticker symbol is required. 
 This script will plot and show the result based on the user requirements.
 
