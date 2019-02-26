@@ -15,4 +15,11 @@ Scrape information from a publicly available website to present insights about a
 ## From where
 The objective of the project is to create a simple web interface where someone can search using  the Ticker Symbol or Name of a company and receive insights about the company. We used NASDAQ.com to extract stock price and other financial numbers.
 
-API from Yahoo is used to extract the stock trends.
+API from Yahoo is used to extract the stock trends. We focused only on few companies in this project(OXY, EOG, APC, APA, COP and PXD) but any company can be added depending on the requirements just by using the corresponding ticker.
+
+## Description
+
+ Some basic insights are as follows:-
+ 
+ * Last known stock price ad stock price trend
+ * 
