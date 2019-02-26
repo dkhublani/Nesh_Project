@@ -62,3 +62,6 @@ It fetches real time data from yahoo finance and returns plot of the trend of st
 * Sentiment_analysis.py:
 This script uses the news article related to the company and calculates the average/min/max sentiment of the text presented. 
 
+
+## Further Improvements 
+
