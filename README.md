@@ -26,4 +26,15 @@ API from Yahoo is used to extract the stock trends. We focused only on few compa
  * News articles published about the company. Sentiment analysis of the articles 
  * Stock price trend 
  
+## How to run
+
+### Run the command- 
+
+python -m pip install -r requirements.txt 
+
+OR
+
+pip install -r requirements.txt
+
+pip3/python3 according to the version of the python to install dependencies associated with the post
  
