@@ -1,7 +1,8 @@
 from flask import  request, jsonify, render_template
 import flask
 import json2table
-import json
+import simplejson as json
+
 
 
 app = flask.Flask(__name__)
