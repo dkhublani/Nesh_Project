@@ -2,9 +2,9 @@ flask==1.0.2
 json2table==1.1.5
 pandas==0.23.4
 pandas_datareader==0.7.0
-matplotlib==3.0.2
+matplotlib
 requests==2.21.0
-lxml==3.4.2
+lxml
 argparse==1.1
 bs4
 sklearn
