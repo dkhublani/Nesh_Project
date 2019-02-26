@@ -1,14 +1,3 @@
-### Run the command- 
-
-python -m pip install -r requirements.txt 
-
-OR
-
-pip install -r requirements.txt
-
-pip3/python3 according to the version of the python to install dependencies associated with the post
-
-
 # Nesh_Project
 Scrape information from a publicly available website to present insights about an Oil and Gas company
 
@@ -30,11 +19,17 @@ API from Yahoo is used to extract the stock trends. We focused only on few compa
 
 ### Run the command- 
 
-python -m pip install -r requirements.txt 
+* python -m pip install -r requirements.txt 
 
-OR
+ OR
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
-pip3/python3 according to the version of the python to install dependencies associated with the post
+ pip3/python3 according to the version of the python to install dependencies associated with the post
+
+* python flask app.py
+
+* Copy the server IP to any web browser
+
+* Enter the ticker (OXY, EOG, APC, APA, COP and PXD) and hit submit button
  
